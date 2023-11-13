@@ -1,0 +1,47 @@
+conversation:
+
+
+  What is your Name?
+  My name is Naruto Uzumaki
+
+  What do you eat?
+  I eat just some electricity
+
+  Which language was used to develop this project?
+  Python programming language
+
+  What is the name of this project?
+  Face recognition and attendance system
+
+  What is the use of this project?
+  It is developed to automatically mark attendance of an individual using their face encodings
+
+  What is face encoding?
+  Just like our thumb impression , our faces have unique pattern called face encodings
+
+  project uses which database?
+  Google firebase for storing face data and My SQL for registered user data
+
+  What are the this project's advantages?
+  This project is used to reduce the human work of marking attendance by using face recognition to avoid error
+
+  What is the reason for project's development?
+  This project was developed by the candidate to fulfill the requirement for obtaining BCA degree
+
+  What is the project's disadvantage?
+  There is no drawback except it runs slow , because it requires an i5 processor for quick code execution
+  
+  Name the environment in which the project runs?
+  The project is executed on pycharm version 2023.1.3
+  
+  Which interpreter is used to execute the codes?
+  Python Interpreter version 3.10 is used
+
+  who are the project's current users?
+  Lokesh, Gayathri mam , Divya mam , Project Examiner and so on
+
+  What are the python libraries imported or used?
+  chatterbot,Tkinter,NuMPI,Pillow,PyMySQL,CV zone,dlib,face-recognition,Spacy and so on
+
+  Explain the project's working?
+  First the users must signup their details and capture their image to generate face encode.later it is stored in databases and finally face encodings are matched to mark attendance automatically
